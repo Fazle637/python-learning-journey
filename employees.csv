@@ -1,0 +1,16 @@
+name,department,salary,years_exp,rating,promoted
+Amit Rahman,Engineering,35000,2,3.8,No
+Sadia Khan,Engineering,55000,5,4.3,Yes
+Rafi Ahmed,Engineering,72000,7,4.6,Yes
+Nabila Islam,Engineering,48000,4,4.1,No
+Tanvir Hossain,Engineering,82000,9,4.8,Yes
+Mina Akter,Marketing,32000,1,3.5,No
+Farhan Karim,Marketing,46000,4,4.0,No
+Rina Chowdhury,Marketing,62000,6,4.4,Yes
+Shakil Mahmud,Marketing,54000,5,4.2,Yes
+Tania Sultana,Marketing,38000,3,3.9,No
+Jamil Hasan,Sales,30000,1,3.6,No
+Lamia Begum,Sales,50000,5,4.3,Yes
+Imran Ali,Sales,75000,8,4.7,Yes
+Sabrina Hossain,Sales,42000,4,4.1,No
+Kamal Uddin,Sales,68000,7,4.5,Yes
