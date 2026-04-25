@@ -1,0 +1,7 @@
+name,age,salary,city,rating,department
+Alice,24.0,48000,London,4.2,Engineering
+Bob,30.0,62000,Paris,3.8,Sales
+Clara,25.0,54500,Berlin,4.9,Marketing
+Eve,16.0,51000,Paris,5.0,Sales
+Frank,75.0,70000,Berlin,3.5,Engineering
+Grace,26.0,58000,London,4.1,Marketing
